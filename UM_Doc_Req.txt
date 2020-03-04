@@ -17,3 +17,5 @@ Passport identification page and expiration page  Required
 If previously held F visa status, one copy of all I-20s and EADs  
 If previously held J visa status, four copies of all DS-2019s, EADs, J-1 waiver, and waiver recommendation letter from U.S. Dept. of State
 Two most recent pay statements and most recent W-2
+
+Changes after syncing
