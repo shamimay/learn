@@ -1,0 +1,13 @@
+[tom@CentOS project]$ pwd
+/home/tom/project
+
+[tom@CentOS project]$ ls
+README string string.c
+
+[tom@CentOS project]$ mkdir src
+
+[tom@CentOS project]$ git mv string.c src/
+
+[tom@CentOS project]$ git status -s
+R string.c −> src/string.c
+?? string
